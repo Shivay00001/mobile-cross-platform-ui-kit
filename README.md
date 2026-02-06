@@ -1,3 +1,8 @@
-# mobile-cross-platform-ui-kit
+# Mobile Cross Platform Ui Kit
 
-Initial scaffolding.
+This repository contains the source code and configuration for **mobile-cross-platform-ui-kit**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
